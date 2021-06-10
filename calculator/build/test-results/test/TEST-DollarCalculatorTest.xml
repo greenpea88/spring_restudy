@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DollarCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-06T14:47:30" hostname="gangminchaeui-MacBookPro.local" time="0.486">
+  <properties/>
+  <testcase name="MockTest()" classname="DollarCalculatorTest" time="0.486"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
